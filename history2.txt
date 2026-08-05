@@ -1,0 +1,90 @@
+8c6df4e HEAD@{0}: merge feature2: Fast-forward
+99e2006 HEAD@{1}: checkout: moving from feature2 to master
+8c6df4e HEAD@{2}: commit: history
+99e2006 HEAD@{3}: merge 99e2006fb2b866b23f643eac4412cc8521fb69a1: Fast-forward
+dedd0c2 HEAD@{4}: checkout: moving from origin-ssh/master to feature2
+99e2006 HEAD@{5}: checkout: moving from 99e2006fb2b866b23f643eac4412cc8521fb69a1 to origin-ssh/master
+99e2006 HEAD@{6}: checkout: moving from feature2 to origin-ssh/master
+dedd0c2 HEAD@{7}: checkout: moving from feature to feature2
+99e2006 HEAD@{8}: merge 99e2006fb2b866b23f643eac4412cc8521fb69a1: Fast-forward
+dedd0c2 HEAD@{9}: checkout: moving from master to feature
+99e2006 HEAD@{10}: checkout: moving from feature to master
+dedd0c2 HEAD@{11}: checkout: moving from master to feature
+99e2006 HEAD@{12}: commit: file 9
+dedd0c2 HEAD@{13}: checkout: moving from feature to master
+dedd0c2 HEAD@{14}: pull origin master: Fast-forward
+fe62785 HEAD@{15}: checkout: moving from master to feature
+dedd0c2 HEAD@{16}: merge feature2: Fast-forward
+92c9e15 HEAD@{17}: checkout: moving from feature2 to master
+dedd0c2 HEAD@{18}: commit: file 8
+92c9e15 HEAD@{19}: checkout: moving from master to feature2
+92c9e15 HEAD@{20}: commit: stashing 3
+fef7f0f HEAD@{21}: commit: stashing 2
+94fe736 HEAD@{22}: commit: stashing 1
+1e8bbbc HEAD@{23}: reset: moving to HEAD
+1e8bbbc HEAD@{24}: reset: moving to HEAD
+1e8bbbc HEAD@{25}: reset: moving to HEAD
+1e8bbbc HEAD@{26}: reset: moving to HEAD
+1e8bbbc HEAD@{27}: reset: moving to HEAD
+1e8bbbc HEAD@{28}: reset: moving to HEAD
+1e8bbbc HEAD@{29}: rebase (abort): returning to refs/heads/master
+fe62785 HEAD@{30}: rebase (start): checkout feature
+1e8bbbc HEAD@{31}: rebase (abort): returning to refs/heads/master
+fe62785 HEAD@{32}: rebase (start): checkout feature
+1e8bbbc HEAD@{33}: merge feature: Merge made by the 'ort' strategy.
+227e060 HEAD@{34}: checkout: moving from feature to master
+fe62785 HEAD@{35}: commit: vishal bhai
+99d118e HEAD@{36}: checkout: moving from master to feature
+227e060 HEAD@{37}: commit (merge): testing
+71f2027 HEAD@{38}: checkout: moving from feature to master
+99d118e HEAD@{39}: commit: changes
+746ec2d HEAD@{40}: checkout: moving from master to feature
+71f2027 HEAD@{41}: commit: conflict
+91cbe07 HEAD@{42}: merge feature: Merge made by the 'ort' strategy.
+26b70d3 HEAD@{43}: checkout: moving from feature to master
+746ec2d HEAD@{44}: commit: comiiiit
+9255068 HEAD@{45}: checkout: moving from master to feature
+26b70d3 HEAD@{46}: merge feature: Merge made by the 'ort' strategy.
+ff8d7bf HEAD@{47}: checkout: moving from feature to master
+9255068 HEAD@{48}: commit: conflict
+bef50e0 HEAD@{49}: checkout: moving from master to feature
+ff8d7bf HEAD@{50}: commit (merge): conflict resolved
+4220e24 HEAD@{51}: checkout: moving from feature to master
+bef50e0 HEAD@{52}: commit: merge conflict
+b1f9461 HEAD@{53}: commit: file 7 version 1
+2206d32 HEAD@{54}: Branch: renamed refs/heads/mybranch to refs/heads/feature
+2206d32 HEAD@{56}: checkout: moving from master to mybranch
+4220e24 HEAD@{57}: cherry-pick: file 6 version 1
+b632c17 HEAD@{58}: checkout: moving from mybranch to master
+2206d32 HEAD@{59}: checkout: moving from master to mybranch
+b632c17 HEAD@{60}: checkout: moving from mybranch to master
+2206d32 HEAD@{61}: commit: file 6 version 2
+9a20a9a HEAD@{62}: commit: file 6 version 1
+b632c17 HEAD@{63}: checkout: moving from master to mybranch
+b632c17 HEAD@{64}: merge mybranch: Fast-forward
+56db2f6 HEAD@{65}: checkout: moving from mybranch to master
+b632c17 HEAD@{66}: checkout: moving from master to mybranch
+56db2f6 HEAD@{67}: checkout: moving from mybranch to master
+b632c17 HEAD@{68}: checkout: moving from master to mybranch
+56db2f6 HEAD@{69}: checkout: moving from mybranch to master
+b632c17 HEAD@{70}: commit: file 5 version 1
+56db2f6 HEAD@{71}: checkout: moving from master to mybranch
+56db2f6 HEAD@{72}: reset: moving to 56db2f6
+d441bbf HEAD@{73}: reset: moving to d441bbf
+d441bbf HEAD@{74}: commit: reseted file1
+56db2f6 HEAD@{75}: reset: moving to 56db2f6
+9e92da4 HEAD@{76}: reset: moving to 9e92da4
+a8663b4 HEAD@{77}: reset: moving to a8663b4
+a45232b HEAD@{78}: reset: moving to a45232b
+a45232b HEAD@{79}: commit: file1 version 4
+a8663b4 HEAD@{80}: reset: moving to HEAD
+a8663b4 HEAD@{81}: reset: moving to HEAD
+a8663b4 HEAD@{82}: commit: file 1 version 3
+9e92da4 HEAD@{83}: commit: change the version
+56db2f6 HEAD@{84}: commit: version 2 file 4
+9e7d66e HEAD@{85}: commit: file4 deleted
+1468697 HEAD@{86}: commit: file 4 version 1
+6af7d3a HEAD@{87}: commit: version1
+0bafca1 HEAD@{88}: commit: edited file
+4abf1d5 HEAD@{89}: commit: modified files
+9442d5d HEAD@{90}: commit (initial): first changes
